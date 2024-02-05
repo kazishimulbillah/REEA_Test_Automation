@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.E_GP.QA.BidSubmission.TestCases.BidSubmissionOTMePW3DTest">
+        <methods>
+          <include name="endReport"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="setExtent"/>
+          <include name="bidSubmissionOTMePW3DTest" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- com.E_GP.QA.BidSubmission.TestCases.BidSubmissionOTMePW3DTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

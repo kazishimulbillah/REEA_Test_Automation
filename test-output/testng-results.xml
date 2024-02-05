@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T15:13:46Z" name="Suite" finished-at="2024-02-05T15:14:35Z" duration-ms="48639">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T15:13:46Z" name="Test" finished-at="2024-02-05T15:14:35Z" duration-ms="48639">
+      <class name="com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest@1583741e]" started-at="2024-02-05T21:13:59Z" name="setUp" finished-at="2024-02-05T21:14:02Z" duration-ms="2643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="NewUserRegistartionTest(java.lang.String, java.lang.String)[pri:2, instance:com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest@1583741e]" started-at="2024-02-05T21:14:02Z" name="NewUserRegistartionTest" data-provider="RegisterNewUserTestData" finished-at="2024-02-05T21:14:13Z" duration-ms="11448" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[shimulece07@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewUserRegistartionTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest@1583741e]" started-at="2024-02-05T21:14:13Z" name="tearDown" finished-at="2024-02-05T21:14:14Z" duration-ms="85" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=NewUserRegistartionTest status=SUCCESS method=SIgnUpTest.NewUserRegistartionTest(java.lang.String, java.lang.String)[pri:2, instance:com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest@1583741e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest -->
+      <class name="com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest@3697186]" started-at="2024-02-05T21:14:14Z" name="setUp" finished-at="2024-02-05T21:14:16Z" duration-ms="2487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ProductsPurchaseTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest@3697186]" started-at="2024-02-05T21:14:16Z" name="ProductsPurchaseTest" data-provider="UserDetails" finished-at="2024-02-05T21:14:34Z" duration-ms="18322" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kazi Md Shimul Billah]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shimul]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Billah]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[246, Yusuf Meherali Road, Mandvi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Mumbai]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[400003]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[October]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[1988]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[02293932193]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[4012888888881881]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[429]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[2026]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductsPurchaseTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest@3697186]" started-at="2024-02-05T21:14:34Z" name="tearDown" finished-at="2024-02-05T21:14:34Z" duration-ms="92" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ProductsPurchaseTest status=SUCCESS method=ProductPurchaseTest.ProductsPurchaseTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest@3697186] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest -->
+      <class name="com.SC.QA.NewUserRegistration.TestCases.ProductCountTest">
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductCountTest@36cda2c2]" started-at="2024-02-05T21:13:46Z" name="setExtent" finished-at="2024-02-05T21:13:46Z" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest@3697186]" started-at="2024-02-05T21:13:46Z" name="setExtent" finished-at="2024-02-05T21:13:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest@1583741e]" started-at="2024-02-05T21:13:46Z" name="setExtent" finished-at="2024-02-05T21:13:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductCountTest@36cda2c2]" started-at="2024-02-05T21:13:46Z" name="setUp" finished-at="2024-02-05T21:13:49Z" duration-ms="2869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageItemCount(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.SC.QA.NewUserRegistration.TestCases.ProductCountTest@36cda2c2]" started-at="2024-02-05T21:13:49Z" name="HomePageItemCount" data-provider="ProductsData" finished-at="2024-02-05T21:13:59Z" duration-ms="10225" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageItemCount -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductCountTest@36cda2c2]" started-at="2024-02-05T21:13:59Z" name="tearDown" finished-at="2024-02-05T21:13:59Z" duration-ms="99" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=HomePageItemCount status=SUCCESS method=ProductCountTest.HomePageItemCount(java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:com.SC.QA.NewUserRegistration.TestCases.ProductCountTest@36cda2c2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductCountTest@36cda2c2]" started-at="2024-02-05T21:14:34Z" name="endReport" finished-at="2024-02-05T21:14:35Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest@3697186]" started-at="2024-02-05T21:14:35Z" name="endReport" finished-at="2024-02-05T21:14:35Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest@1583741e]" started-at="2024-02-05T21:14:35Z" name="endReport" finished-at="2024-02-05T21:14:35Z" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.SC.QA.NewUserRegistration.TestCases.ProductCountTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

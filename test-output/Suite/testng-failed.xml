@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.SC.QA.NewUserRegistration.TestCases.ProductCountTest">
+        <methods>
+          <include name="setExtent"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.SC.QA.NewUserRegistration.TestCases.ProductCountTest -->
+      <class name="com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest">
+        <methods>
+          <include name="NewUserRegistartionTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- com.SC.QA.NewUserRegistration.TestCases.SIgnUpTest -->
+      <class name="com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- com.SC.QA.NewUserRegistration.TestCases.ProductPurchaseTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
